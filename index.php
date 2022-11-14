@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Valerias's Portfolio</title>
+  <title>Valeria's Portfolio</title>
   <link rel="stylesheet" href="css/style.css">
   <script src="https://kit.fontawesome.com/197b6bdd15.js" crossorigin="anonymous"></script>
 </head>
@@ -85,12 +85,11 @@
   <div id="portfolio">
     <div class="container">
       <h1 class="sub-title">My Projects</h1>
-      <div class="work-list">
-        <div class="work">
-          <img src="images/work-1.png">
-          <div class="layer">
-            <h3>Mover</h3>
-            <a href="https://moverr-app.herokuapp.com/">demo</a>
+      <div class="">
+        <div class="">
+          <div class="">
+            <h3>Mover website</h3>
+            <a href="https://moverr-app.herokuapp.com/" class="demo">demo</a>
             <p>Valeria  designs responsive websites</p>
           </div>
         </div>
